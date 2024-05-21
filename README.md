@@ -1,6 +1,6 @@
 <h1 align="center">📱 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐌𝐨𝐛𝐢𝐥𝐞 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 (𝐅𝐥𝐮𝐭𝐭𝐞𝐫 | 𝐅𝐥𝐮𝐭𝐭𝐞𝐫𝐅𝐥𝐨𝐰 | 𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲) | 🚀 𝐂𝐫𝐚𝐟𝐭𝐢𝐧𝐠 𝐄𝐱𝐜𝐞𝐩𝐭𝐢𝐨𝐧𝐚𝐥 𝐀𝐩𝐩𝐬</h1>
 
-### Dev Quote ✍️
+### Dev Quote
 
 ## ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=top2429" alt="top2429" /></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
+
 <p align="left"> 
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -53,9 +54,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
-
-<h3 align="left">GitHub Stats Degree:</h3>
+### GitHub Stats Degree
 
 <div align="left">
 <table>
