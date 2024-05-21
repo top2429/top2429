@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm a Software Engineer</h1>
 <h3 align="center">📱 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐌𝐨𝐛𝐢𝐥𝐞 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 (𝐅𝐥𝐮𝐭𝐭𝐞𝐫 | 𝐅𝐥𝐮𝐭𝐭𝐞𝐫𝐅𝐥𝐨𝐰 | 𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲) | 🚀 𝐂𝐫𝐚𝐟𝐭𝐢𝐧𝐠 𝐄𝐱𝐜𝐞𝐩𝐭𝐢𝐨𝐧𝐚𝐥 𝐀𝐩𝐩𝐬 | 🌟</h3>
 
+### Dev Quote ✍️
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 ### Thanks for visiting 💖
 
 ![VisitorCount](https://profile-counter.glitch.me/top2429/count.svg)
