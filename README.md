@@ -3,12 +3,9 @@
 
 ### Dev Quote ✍️
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+## ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### Thanks for visiting 💖
-
-![VisitorCount](https://profile-counter.glitch.me/top2429/count.svg)
-&emsp;
+[![](https://visitcount.itsvg.in/api?id=core116&icon=7&color=3)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=top2429" alt="top2429" /></a> </p>
 
