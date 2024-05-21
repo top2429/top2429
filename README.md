@@ -58,43 +58,60 @@
 <h3 align="left">GitHub Stats Degree:</h3>
 
 <div align="left">
-  <table>
-    <tr>
-      <td><strong><h4>S (Top 1%)</h4></strong></td>
-      <td><h4>👑</h4></td>
-      <td><em><h4>Elite among the elite!</h4></em></td>
-    </tr>
-    <tr>
-      <td><strong><h4>A+ (Top 12.5%)</h4></strong></td>
-      <td><h4>🏆🏆🏆</h4></td><td><em><h4>Outstanding performance!</h4></em></td>
-    </tr>
-    <tr>
-      <td><strong><h4>A (Top 25%)</strong></td>
-      <td><h4>🏆🏆</h4></td><td><em><h4>Excellent skills!</h4></em></td>
-    </tr>
-    <tr>
-      <td><strong><h4>A- (Top 47.5%)</h4></strong></td>
-      <td><h4>🏆</h4></td><td><em><h4>Great job!</h4></em></td>
-    </tr>
-    <tr>
-      <td><strong><h4>B+ (Top 50%)</h4></strong></td>
-      <td><h4>⭐⭐⭐⭐⭐</h4></td><td><em><h4>Solid contributions!</h4></em></td>
-    </tr>
-    <tr>
-      <td><strong><h4>B (Top 62.5%)</strong></td>
-      <td><h4>⭐⭐⭐⭐</h4></td><td><em><h4>Consistent efforts!</h4></em></td>
-    </tr>
-    <tr>
-      <td><strong><h4>B- (Top 75%)</h4></strong></td>
-      <td><h4>⭐⭐⭐</h4></td><td><em><h4>Keep pushing forward!</h4></em></td>
-    </tr>
-    <tr>
-      <td><strong><h4>C+ (Top 87.5%)</h4></strong></td>
-      <td><h4>⭐⭐</h4></td><td><em><h4>Room for growth!</h4></em></td>
-    </tr>
-    <tr>
-      <td><strong><h4>C (Everyone)</h4></strong></td>
-      <td><h4>⭐</h4></td><td><em><h4>Welcome to the journey!</h4></em></td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td><strong>S</strong></td>
+<td>👑</td>
+<td><em>Elite among the elite!</em></td>
+<td><strong>Top 1%</strong></td>
+</tr>
+<tr>
+<td><strong>A+</strong></td>
+<td>🏆🏆🏆</td>
+<td><em>Outstanding performance!</em></td>
+<td><strong>Top 12.5%</strong></td>
+</tr>
+<tr>
+<td><strong>A</strong></td>
+<td>🏆🏆</td>
+<td><em>Excellent skills!</em></td>
+<td><strong>Top 25%</strong></td>
+</tr>
+<tr>
+<td><strong>A-</strong></td>
+<td>🏆</td>
+<td><em>Great job!</em></td>
+<td><strong>Top 47.5%</strong></td>
+</tr>
+<tr>
+<td><strong>B+</strong></td>
+<td>⭐⭐⭐⭐⭐</td>
+<td><em>Solid contributions!</em></td>
+<td><strong>Top 50%</strong></td>
+</tr>
+<tr>
+<td><strong>B</strong></td>
+<td>⭐⭐⭐⭐</td>
+<td><em>Consistent efforts!</em></td>
+<td><strong>Top 62.5%</strong></td>
+</tr>
+<tr>
+<td><strong>B-</strong></td>
+<td>⭐⭐⭐</td>
+<td><em>Keep pushing forward!</em></td>
+<td><strong>Top 75%</strong></td>
+</tr>
+<tr>
+<td><strong>C+</strong></td>
+<td>⭐⭐</td>
+<td><em>Room for growth!</em></td>
+<td><strong>Top 87.5%</strong></td>
+</tr>
+<tr>
+<td><strong>C</strong></td>
+<td>⭐</td>
+<td><em>Welcome to the journey!</em></td>
+<td><strong>Everyone</strong></td>
+</tr>
+</table>
 </div>
