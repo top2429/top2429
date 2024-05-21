@@ -55,56 +55,46 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
 <h3 align="left">GitHub Stats Degree:</h3>
 
 <div align="left">
   <table>
     <tr>
       <td><strong>S (Top 1%)</strong></td>
-      <td>👑<em>Elite among the elite!</em></td>
+      <td>👑</td>
+      <td><em>Elite among the elite!</em></td>
     </tr>
     <tr>
       <td><strong>A+ (Top 12.5%)</strong></td>
-      <td>🥇<em>Outstanding performance!</em></td>
+      <td>🏆🏆🏆</td><td><em>Outstanding performance!</em></td>
     </tr>
     <tr>
       <td><strong>A (Top 25%)</strong></td>
-      <td>🥈<em>Excellent skills!</em></td>
+      <td>🏆🏆</td><td><em>Excellent skills!</em></td>
     </tr>
     <tr>
       <td><strong>A- (Top 37.5%)</strong></td>
-      <td>🥉<em>Great job!</em></td>
+      <td>🏆</td><td><em>Great job!</em></td>
     </tr>
     <tr>
       <td><strong>B+ (Top 50%)</strong></td>
-      <td>🌟 <em>Solid contributions!</em></td>
+      <td>⭐⭐⭐⭐⭐</td><td><em>Solid contributions!</em></td>
     </tr>
     <tr>
-      <td><strong>B (Top 62.5%)</strong></td>
-      <td>✅ <em>Consistent efforts!</em></td>
+      <td><strong algi>B (Top 62.5%)</strong></td>
+      <td>⭐⭐⭐⭐</td><td><em>Consistent efforts!</em></td>
     </tr>
     <tr>
       <td><strong>B- (Top 75%)</strong></td>
-      <td>🚀 <em>Keep pushing forward!</em></td>
+      <td>⭐⭐⭐</td><td><em>Keep pushing forward!</em></td>
     </tr>
     <tr>
       <td><strong>C+ (Top 87.5%)</strong></td>
-      <td>📈 <em>Room for growth!</em></td>
+      <td>⭐⭐</td><td><em>Room for growth!</em></td>
     </tr>
     <tr>
       <td><strong>C (Everyone)</strong></td>
-      <td>💖 <em>Welcome to the journey!</em></td>
+      <td>⭐</td><td><em>Welcome to the journey!</em></td>
     </tr>
   </table>
 </div>
