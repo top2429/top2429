@@ -4,7 +4,7 @@
 
 ## ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-[![](https://visitcount.itsvg.in/api?id=core116&icon=7&color=3)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=top2429&label=Profile%20views&color=0e75b6&style=flat" alt="top2429" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=top2429" alt="top2429" /></a> </p>
 
