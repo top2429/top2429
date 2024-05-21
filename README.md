@@ -66,35 +66,35 @@
     </tr>
     <tr>
       <td><strong><h4>A+ (Top 12.5%)</h4></strong></td>
-      <td><h4>🏆🏆🏆</td><td><em><h4>Outstanding performance!</h4></em></td>
+      <td><h4>🏆🏆🏆</h4></td><td><em><h4>Outstanding performance!</h4></em></td>
     </tr>
     <tr>
       <td><strong><h4>A (Top 25%)</strong></td>
-      <td><h4>🏆🏆</td><td><em><h4>Excellent skills!</h4></em></td>
+      <td><h4>🏆🏆</h4></td><td><em><h4>Excellent skills!</h4></em></td>
     </tr>
     <tr>
       <td><strong><h4>A- (Top 47.5%)</h4></strong></td>
-      <td><h4>🏆</td><td><em><h4>Great job!</h4></em></td>
+      <td><h4>🏆</h4></td><td><em><h4>Great job!</h4></em></td>
     </tr>
     <tr>
       <td><strong><h4>B+ (Top 50%)</h4></strong></td>
-      <td><h4>⭐⭐⭐⭐⭐</td><td><em><h4>Solid contributions!</h4></em></td>
+      <td><h4>⭐⭐⭐⭐⭐</h4></td><td><em><h4>Solid contributions!</h4></em></td>
     </tr>
     <tr>
       <td><strong><h4>B (Top 62.5%)</strong></td>
-      <td><h4>⭐⭐⭐⭐</td><td><em><h4>Consistent efforts!</h4></em></td>
+      <td><h4>⭐⭐⭐⭐</h4></td><td><em><h4>Consistent efforts!</h4></em></td>
     </tr>
     <tr>
       <td><strong><h4>B- (Top 75%)</h4></strong></td>
-      <td><h4>⭐⭐⭐</td><td><em><h4>Keep pushing forward!</em></td>
+      <td><h4>⭐⭐⭐</h4></td><td><em><h4>Keep pushing forward!</h4></em></td>
     </tr>
     <tr>
       <td><strong><h4>C+ (Top 87.5%)</h4></strong></td>
-      <td><h4>⭐⭐</td><td><em><h4>Room for growth!</h4></em></td>
+      <td><h4>⭐⭐</h4></td><td><em><h4>Room for growth!</h4></em></td>
     </tr>
     <tr>
       <td><strong><h4>C (Everyone)</h4></strong></td>
-      <td><h4>⭐</td><td><em><h4>Welcome to the journey!</h4></em></td>
+      <td><h4>⭐</h4></td><td><em><h4>Welcome to the journey!</h4></em></td>
     </tr>
   </table>
 </div>
