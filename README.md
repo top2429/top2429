@@ -60,41 +60,41 @@
 <div align="left">
   <table>
     <tr>
-      <td><strong>S (Top 1%)</strong></td>
-      <td>👑</td>
-      <td><em>Elite among the elite!</em></td>
+      <td><strong><h3>S (Top 1%)</h3></strong></td>
+      <td><h3>👑</h3></td>
+      <td><em><h3>Elite among the elite!</h3></em></td>
     </tr>
     <tr>
-      <td><strong>A+ (Top 12.5%)</strong></td>
-      <td>🏆🏆🏆</td><td><em>Outstanding performance!</em></td>
+      <td><strong><h3>A+ (Top 12.5%)</h3></strong></td>
+      <td><h3>🏆🏆🏆</td><td><em><h3>Outstanding performance!</h3></em></td>
     </tr>
     <tr>
-      <td><strong>A (Top 25%)</strong></td>
-      <td>🏆🏆</td><td><em>Excellent skills!</em></td>
+      <td><strong><h3>A (Top 25%)</strong></td>
+      <td><h3>🏆🏆</td><td><em><h3>Excellent skills!</h3></em></td>
     </tr>
     <tr>
-      <td><strong>A- (Top 37.5%)</strong></td>
-      <td>🏆</td><td><em>Great job!</em></td>
+      <td><strong><h3>A- (Top 37.5%)</h3></strong></td>
+      <td><h3>🏆</td><td><em><h3>Great job!</h3></em></td>
     </tr>
     <tr>
-      <td><strong>B+ (Top 50%)</strong></td>
-      <td>⭐⭐⭐⭐⭐</td><td><em>Solid contributions!</em></td>
+      <td><strong><h3>B+ (Top 50%)</h3></strong></td>
+      <td><h3>⭐⭐⭐⭐⭐</td><td><em><h3>Solid contributions!</h3></em></td>
     </tr>
     <tr>
-      <td><strong algi>B (Top 62.5%)</strong></td>
-      <td>⭐⭐⭐⭐</td><td><em>Consistent efforts!</em></td>
+      <td><strong><h3>B (Top 62.5%)</strong></td>
+      <td><h3>⭐⭐⭐⭐</td><td><em><h3>Consistent efforts!</h3></em></td>
     </tr>
     <tr>
-      <td><strong>B- (Top 75%)</strong></td>
-      <td>⭐⭐⭐</td><td><em>Keep pushing forward!</em></td>
+      <td><strong><h3>B- (Top 75%)</h3></strong></td>
+      <td><h3>⭐⭐⭐</td><td><em><h3>Keep pushing forward!</em></td>
     </tr>
     <tr>
-      <td><strong>C+ (Top 87.5%)</strong></td>
-      <td>⭐⭐</td><td><em>Room for growth!</em></td>
+      <td><strong><h3>C+ (Top 87.5%)</h3></strong></td>
+      <td><h3>⭐⭐</td><td><em><h3>Room for growth!</h3></em></td>
     </tr>
     <tr>
-      <td><strong>C (Everyone)</strong></td>
-      <td>⭐</td><td><em>Welcome to the journey!</em></td>
+      <td><strong><h3>C (Everyone)</h3></strong></td>
+      <td><h3>⭐</td><td><em><h3>Welcome to the journey!</h3></em></td>
     </tr>
   </table>
 </div>
