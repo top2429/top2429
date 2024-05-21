@@ -60,41 +60,41 @@
 <div align="left">
   <table>
     <tr>
-      <td><strong><h3>S (Top 1%)</h3></strong></td>
-      <td><h3>👑</h3></td>
-      <td><em><h3>Elite among the elite!</h3></em></td>
+      <td><strong><h4>S (Top 1%)</h4></strong></td>
+      <td><h4>👑</h4></td>
+      <td><em><h4>Elite among the elite!</h4></em></td>
     </tr>
     <tr>
-      <td><strong><h3>A+ (Top 12.5%)</h3></strong></td>
-      <td><h3>🏆🏆🏆</td><td><em><h3>Outstanding performance!</h3></em></td>
+      <td><strong><h4>A+ (Top 12.5%)</h4></strong></td>
+      <td><h4>🏆🏆🏆</td><td><em><h4>Outstanding performance!</h4></em></td>
     </tr>
     <tr>
-      <td><strong><h3>A (Top 25%)</strong></td>
-      <td><h3>🏆🏆</td><td><em><h3>Excellent skills!</h3></em></td>
+      <td><strong><h4>A (Top 25%)</strong></td>
+      <td><h4>🏆🏆</td><td><em><h4>Excellent skills!</h4></em></td>
     </tr>
     <tr>
-      <td><strong><h3>A- (Top 37.5%)</h3></strong></td>
-      <td><h3>🏆</td><td><em><h3>Great job!</h3></em></td>
+      <td><strong><h4>A- (Top 47.5%)</h4></strong></td>
+      <td><h4>🏆</td><td><em><h4>Great job!</h4></em></td>
     </tr>
     <tr>
-      <td><strong><h3>B+ (Top 50%)</h3></strong></td>
-      <td><h3>⭐⭐⭐⭐⭐</td><td><em><h3>Solid contributions!</h3></em></td>
+      <td><strong><h4>B+ (Top 50%)</h4></strong></td>
+      <td><h4>⭐⭐⭐⭐⭐</td><td><em><h4>Solid contributions!</h4></em></td>
     </tr>
     <tr>
-      <td><strong><h3>B (Top 62.5%)</strong></td>
-      <td><h3>⭐⭐⭐⭐</td><td><em><h3>Consistent efforts!</h3></em></td>
+      <td><strong><h4>B (Top 62.5%)</strong></td>
+      <td><h4>⭐⭐⭐⭐</td><td><em><h4>Consistent efforts!</h4></em></td>
     </tr>
     <tr>
-      <td><strong><h3>B- (Top 75%)</h3></strong></td>
-      <td><h3>⭐⭐⭐</td><td><em><h3>Keep pushing forward!</em></td>
+      <td><strong><h4>B- (Top 75%)</h4></strong></td>
+      <td><h4>⭐⭐⭐</td><td><em><h4>Keep pushing forward!</em></td>
     </tr>
     <tr>
-      <td><strong><h3>C+ (Top 87.5%)</h3></strong></td>
-      <td><h3>⭐⭐</td><td><em><h3>Room for growth!</h3></em></td>
+      <td><strong><h4>C+ (Top 87.5%)</h4></strong></td>
+      <td><h4>⭐⭐</td><td><em><h4>Room for growth!</h4></em></td>
     </tr>
     <tr>
-      <td><strong><h3>C (Everyone)</h3></strong></td>
-      <td><h3>⭐</td><td><em><h3>Welcome to the journey!</h3></em></td>
+      <td><strong><h4>C (Everyone)</h4></strong></td>
+      <td><h4>⭐</td><td><em><h4>Welcome to the journey!</h4></em></td>
     </tr>
   </table>
 </div>
