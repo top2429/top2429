@@ -50,10 +50,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=top2429&" alt="top2429" /></p>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ### GitHub Stats Degree
 
 <div align="left">
